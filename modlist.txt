@@ -70,3 +70,7 @@
 * Lootr
 * ShetiPhianCore
 * The Twilight Forest
+
+=== Client Only ===
+* Oculus
+* Mouse Tweaks
