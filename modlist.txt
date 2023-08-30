@@ -3,15 +3,22 @@
 * Ad Astra: Giselle Addon
 * Advanced Peripherals
 * Applied Energistics 2 Wireless Terminals
+* AIOT Botania
 * AppleSkin
+* Applied Botanics
 * Applied Energistics 2
 * Applied Mekanistics
 * Architectury API
+* AutoRegLib
+* Balm
+* BetterF3
 * Blue Skies
+* Botania
 * Botarium
 * CC: Tweaked
 * Cloth Config API
 * Common Capabilities
+* Controlling
 * Create
 * Curios API
 * Cyclops Core
@@ -24,24 +31,30 @@
 * Integrated Dynamics
 * Integrated Terminals
 * Integrated Tunnels
+* Inventory Essentials
+* Inventory Profiles Next
 * JourneyMap
 * JourneyMap Integration
 * Just Enough Items
 * Just Enough Professions (JEP)
 * Just Enough Resources (JER)
 * Kotlin For Forge
+* libIPN
+* LibX
 * McJtyLib
 * MEGA Cells
 * Mekanism
 * Mekanism: Generators
 * Mekanism: Tools
 * Mouse Tweaks
+* Mythic Botany
 * No Chat Reports
 * Oculus
 * The One Probe
 * Patchouli
 * Paucal
 * Powah
+* Quark
 * Resourceful Lib
 * Resourceful Config
 * RFTools Base
@@ -51,6 +64,7 @@
 * RFTools Power
 * RFTools Utility
 * Rubidium
+* SandBox
 * Shulker Box Tooltip
 * spark
 * Structure Gel API
@@ -59,19 +73,26 @@
 
 === CurseForge ===
 * Configured
+* Corail Tombstone
 * EnderChests
 * EnderTanks
+* Fast Leaf Decay
 * Flux Networks
+* Framed Blocks
 * FTB Chunks
 * FTB Library
 * FTB Teams
 * Integrated NBT
 * LaserIO
 * Lootr
+* More Overlays Updated
 * ShetiPhianCore
+* Silent Gear
+* Silent Lib
 * The Twilight Forest
 * Yeetus Experimentus
 
 === Client Only ===
-* Oculus
+* Controlling
 * Mouse Tweaks
+* Oculus
