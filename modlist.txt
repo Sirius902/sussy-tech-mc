@@ -1,0 +1,72 @@
+=== Modrinth ===
+* Ad Astra
+* Ad Astra: Giselle Addon
+* Advanced Peripherals
+* Applied Energistics 2 Wireless Terminals
+* AppleSkin
+* Applied Energistics 2
+* Applied Mekanistics
+* Architectury API
+* Blue Skies
+* Botarium
+* CC: Tweaked
+* Cloth Config API
+* Common Capabilities
+* Create
+* Curios API
+* Cyclops Core
+* Ducky Peripherals
+* Game Menu Mod Option
+* Geckolib
+* Hex Casting
+* Hexal
+* Integrated Crafting
+* Integrated Dynamics
+* Integrated Terminals
+* Integrated Tunnels
+* JourneyMap
+* JourneyMap Integration
+* Just Enough Items
+* Just Enough Professions (JEP)
+* Just Enough Resources (JER)
+* Kotlin For Forge
+* McJtyLib
+* MEGA Cells
+* Mekanism
+* Mekanism: Generators
+* Mekanism: Tools
+* Mouse Tweaks
+* No Chat Reports
+* Oculus
+* The One Probe
+* Patchouli
+* Paucal
+* Powah
+* Resourceful Lib
+* Resourceful Config
+* RFTools Base
+* RFTools Builder
+* RFTools Control
+* RFTools Dimensions
+* RFTools Power
+* RFTools Utility
+* Rubidium
+* Shulker Box Tooltip
+* spark
+* Structure Gel API
+* XNet
+* XNet Gases
+
+=== CurseForge ===
+* Configured
+* EnderChests
+* EnderTanks
+* Flux Networks
+* FTB Chunks
+* FTB Library
+* FTB Teams
+* Integrated NBT
+* LaserIO
+* Lootr
+* ShetiPhianCore
+* The Twilight Forest
