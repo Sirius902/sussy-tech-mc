@@ -17,6 +17,7 @@
 * Botarium
 * CC: Tweaked
 * Cloth Config API
+* Comforts
 * Common Capabilities
 * Controlling
 * Create
@@ -87,6 +88,7 @@
 * Lootr
 * More Overlays Updated
 * ShetiPhianCore
+* Shrink
 * Silent Gear
 * Silent Lib
 * The Twilight Forest
