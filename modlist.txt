@@ -15,7 +15,9 @@
 * Blue Skies
 * Botania
 * Botarium
+* Caelus API
 * CC: Tweaked
+* Chipped
 * Cloth Config API
 * Comforts
 * Common Capabilities
@@ -24,6 +26,7 @@
 * Curios API
 * Cyclops Core
 * Ducky Peripherals
+* Fusion
 * Game Menu Mod Option
 * Geckolib
 * Hex Casting
@@ -56,6 +59,7 @@
 * Paucal
 * Powah
 * Quark
+* Rechiseled
 * Resourceful Lib
 * Resourceful Config
 * RFTools Base
@@ -69,11 +73,14 @@
 * Shulker Box Tooltip
 * spark
 * Structure Gel API
+* SuperMartijn642's Core Lib
+* SuperMartijn642's Config Lib
 * XNet
 * XNet Gases
 
 === CurseForge ===
 * Configured
+* ConnectedTexturesMod
 * Corail Tombstone
 * EnderChests
 * EnderTanks
@@ -85,8 +92,15 @@
 * FTB Teams
 * Integrated NBT
 * LaserIO
+* Macaw's Bridges
+* Macaw's Doors
+* Macaw's Fences and Walls
+* Macaw's Lights and Lamps
+* Macaw's Roofs
+* Macaw's Trapdoors
 * Lootr
 * More Overlays Updated
+* MrCrayfish's Furniture Mod
 * ShetiPhianCore
 * Shrink
 * Silent Gear
